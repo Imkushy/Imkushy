@@ -12,9 +12,7 @@ Contact/Connect with me at https://e-z.bio/Kush
 - 📱 UI Design
 
 ---
-# 💻 My Known Languages/Tools:
-![Node.JS](https://img.shields.io/badge/Node.JS-417e38?style=for-the-badge&logo=node.js&logoColor=ffffff)
+# 💻 My Known Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white)
-![HTML](https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffde24?style=for-the-badge&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffde24?style=for-the-badge&logo=javascript&logoColor=000) **Kinda**

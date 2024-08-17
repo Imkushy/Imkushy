@@ -15,4 +15,4 @@ Contact/Connect with me at https://e-z.bio/Kush
 # 💻 My Known Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffde24?style=for-the-badge&logo=javascript&logoColor=000) **Kinda**
+![JavaScript](https://img.shields.io/badge/JavaScript-ffde24?style=for-the-badge&logo=javascript&logoColor=000) **JS: Kinda**

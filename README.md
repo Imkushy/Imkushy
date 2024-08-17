@@ -1,7 +1,6 @@
 # 📝 About Me:
 Hey there, I'm Kush! I'm a 17-year-old developer who enjoys keeping things simple and staying low-key. \
-Contact/Connect with me at https://e-z.bio/Kush   
-
+Contact/Connect with me at soon
 ---
 # 🏗️ My Current Projects:
 - **Corex:** A discord bot designed to bypass key systems in Roblox executors and beyond.

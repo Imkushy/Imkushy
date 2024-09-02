@@ -14,7 +14,6 @@ Hey there, I'm Kush! I'm a progammer who enjoys keeping things simple and stayin
 <details>
   <summary>🏗️ My Current Projects</summary>
 
-- **Visionary:** A Roblox spoofer capable of bypassing Hyperion and Roblox's ban API. Designed for Windows 10/11 x64.
 
 </details>
 
